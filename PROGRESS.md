@@ -2,7 +2,7 @@
 
 **Date:** October 3, 2026 (Session 3 Continued)  
 **Status:** Active Development  
-**Completion:** 75% (12 of 16 chapters complete — PART III 60% DONE)
+**Completion:** 81% (13 of 16 chapters complete — PART III 80% DONE)
 
 ---
 
@@ -69,15 +69,15 @@
 
 | Metric | Value |
 |--------|-------|
-| Total Chapters Written | 12 (Framework + Ch 1-12) |
-| New Chapters This Session | 8 (Ch 5-12) |
-| Words Written (This Session) | ~29,000 (Chapters 5-12) |
-| Total Book Words (So Far) | ~53,000 (framework + 12 chapters) |
-| Equations/Derivations | 120+ with step-by-step math |
-| Technical Tables | 105+ |
-| Git Commits This Session | 8 (Ch5-12 sequence) |
+| Total Chapters Written | 13 (Framework + Ch 1-13) |
+| New Chapters This Session | 9 (Ch 5-13) |
+| Words Written (This Session) | ~36,000 (Chapters 5-13) |
+| Total Book Words (So Far) | ~60,000 (framework + 13 chapters) |
+| Equations/Derivations | 140+ with step-by-step math |
+| Technical Tables | 115+ |
+| Git Commits This Session | 9 (Ch5-13 sequence) |
 | Time to Complete Chapter | 1-1.5 hours average |
-| Book Completion | 75% (12 of 16 base chapters) |
+| Book Completion | 81% (13 of 16 base chapters) |
 
 ---
 
@@ -128,6 +128,12 @@
 - **Length:** ~6,500 words
 - **Coverage:** Al₂O₃ native oxide barrier (30:1 selectivity), why Al₂O₃ etches slower than SiO₂, temperature effect (higher T worsens selectivity by 2× Al etch rate coefficient), pressure/power effects, gas chemistry (CHF₃ improves selectivity), process window squeeze from technology scaling, selectivity-ARDE conflict, dynamic temperature profiling, barrier layer challenges, production metrology, advanced techniques (pulsed gas chemistry, ALE)
 - **Key Insight:** Selectivity fundamentally limited to ~30:1 by Al₂O₃ chemistry; temperature fixes ARDE but destroys selectivity (activation energy 40 kcal/mol vs 25 for SiO₂)
+- **Status:** COMPLETE & COMMITTED & PUSHED
+
+### Chapter 13: Polymerization and Fluorocarbon Chemistry ✓
+- **Length:** ~7,000 words
+- **Coverage:** Fluorocarbon formation mechanisms (CF₃ radical coupling, surface polymerization), polymer composition (CF₁.₈ average, cross-linked network), deposition rates (0.1-0.5 nm/min open area, 5-10 nm/min trenches), spatial gradients (cooler = more polymer), ARDE degradation over time, etch rate reduction (27% over chamber life), temperature control (↑T reduces polymer 75%), pulsed etch benefits, O₂ additives, multi-step recipes, in-situ monitoring, residual polymer impact, advanced composition evolution
+- **Key Insight:** Polymer accumulates preferentially in trenches (100× higher in deep vs. open), worsens inverse ARDE over time, forces NF₃ cleaning every 20-25 wafers; polymer paradox—improves selectivity but hurts uniformity
 - **Status:** COMPLETE
 
 ### REMAINING WORK
@@ -166,7 +172,8 @@ Glossary started; all placeholder files prepared
 - ✅ Chapter 10: Inverse ARDE — The Oxide Etch Paradox (1 hour)
 - ✅ Chapter 11: Fluorine Atom Kinetics (1 hour)
 - ✅ Chapter 12: Selectivity Engineering — Oxide-to-Metal Ratios (1.5 hours)
-- ✅ **PART III IN PROGRESS (3 chapters, ~16,000 words, 60% complete)**
+- ✅ Chapter 13: Polymerization and Fluorocarbon Chemistry (1.5 hours)
+- ✅ **PART III 80% COMPLETE (4 of 5 chapters, ~23,000 words)**
 - ✅ Progress tracking and updates
 
 ### PROJECTED COMPLETION (Updated)
