@@ -2,7 +2,7 @@
 
 **Date:** October 3, 2026 (Session 3 Continued)  
 **Status:** Active Development  
-**Completion:** 69% (11 of 16 chapters complete — PART III ACCELERATING)
+**Completion:** 75% (12 of 16 chapters complete — PART III 60% DONE)
 
 ---
 
@@ -69,15 +69,15 @@
 
 | Metric | Value |
 |--------|-------|
-| Total Chapters Written | 11 (Framework + Ch 1-11) |
-| New Chapters This Session | 7 (Ch 5-11) |
-| Words Written (This Session) | ~22,500 (Chapters 5-11) |
-| Total Book Words (So Far) | ~46,500 (framework + 11 chapters) |
-| Equations/Derivations | 100+ with step-by-step math |
-| Technical Tables | 95+ |
-| Git Commits This Session | 7 (Ch5-11 sequence) |
+| Total Chapters Written | 12 (Framework + Ch 1-12) |
+| New Chapters This Session | 8 (Ch 5-12) |
+| Words Written (This Session) | ~29,000 (Chapters 5-12) |
+| Total Book Words (So Far) | ~53,000 (framework + 12 chapters) |
+| Equations/Derivations | 120+ with step-by-step math |
+| Technical Tables | 105+ |
+| Git Commits This Session | 8 (Ch5-12 sequence) |
 | Time to Complete Chapter | 1-1.5 hours average |
-| Book Completion | 69% (11 of 16 base chapters) |
+| Book Completion | 75% (12 of 16 base chapters) |
 
 ---
 
@@ -122,6 +122,12 @@
 - **Length:** ~5,000 words
 - **Coverage:** F-atom generation from CF₄/CHF₃ dissociation, transport mechanisms (diffusion, drift, convection), loss on walls/wafer/polymerization, steady-state density (~10¹¹ cm⁻³), 1D/2D trench depletion models, process condition effects (pressure ↑ worsens, temperature ↑ improves, power ↑ worsens net ARDE)
 - **Key Insight:** F-atoms are the rate-limiting reactant; ~50% lost on walls, ~15% to polymer, only ~35% productive etch
+- **Status:** COMPLETE & COMMITTED & PUSHED
+
+### Chapter 12: Selectivity Engineering — Oxide-to-Metal Ratios ✓
+- **Length:** ~6,500 words
+- **Coverage:** Al₂O₃ native oxide barrier (30:1 selectivity), why Al₂O₃ etches slower than SiO₂, temperature effect (higher T worsens selectivity by 2× Al etch rate coefficient), pressure/power effects, gas chemistry (CHF₃ improves selectivity), process window squeeze from technology scaling, selectivity-ARDE conflict, dynamic temperature profiling, barrier layer challenges, production metrology, advanced techniques (pulsed gas chemistry, ALE)
+- **Key Insight:** Selectivity fundamentally limited to ~30:1 by Al₂O₃ chemistry; temperature fixes ARDE but destroys selectivity (activation energy 40 kcal/mol vs 25 for SiO₂)
 - **Status:** COMPLETE
 
 ### REMAINING WORK
@@ -159,7 +165,8 @@ Glossary started; all placeholder files prepared
 - ✅ **PART II COMPLETE (5 chapters, ~13,000 words)**
 - ✅ Chapter 10: Inverse ARDE — The Oxide Etch Paradox (1 hour)
 - ✅ Chapter 11: Fluorine Atom Kinetics (1 hour)
-- ✅ **PART III IN PROGRESS (2 chapters, ~9,500 words, 40% complete)**
+- ✅ Chapter 12: Selectivity Engineering — Oxide-to-Metal Ratios (1.5 hours)
+- ✅ **PART III IN PROGRESS (3 chapters, ~16,000 words, 60% complete)**
 - ✅ Progress tracking and updates
 
 ### PROJECTED COMPLETION (Updated)
